@@ -1,4 +1,4 @@
-# boost-tool-nitro-tool-for-discord
+# boost-tool-nitro-tool-for-discord        ONLY FOR PC
 
  
 </p>
