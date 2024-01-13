@@ -10,8 +10,6 @@ Star ⭐ This Repo!
  <p align="center"> 
 
 
-Retarded Scammers (skids) <h3 align="center"> 
-![image](https://i.imgur.com/X2Vrn0p.png)
 
 ### Requirements:
 - [x] - **Windows 10 / 11** 
