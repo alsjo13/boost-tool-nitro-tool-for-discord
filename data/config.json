@@ -1,0 +1,13 @@
+{
+    "ApiKey": "",
+    "Debug":true,
+    "Invite":"",
+    "Humanization":{
+        "pfp":false,
+        "bio":true,
+        "displayName":true,
+        "pronouns":false,
+        "birthday":false,
+        "Hypesquad":false
+    }
+}
