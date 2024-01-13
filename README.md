@@ -7,9 +7,7 @@ Star ⭐ This Repo!
 </h3>
  
 <h3 align="center">
- <p align="center">
-
-![image](https://i.imgur.com/uFbWP9k.png) 
+ <p align="center"> 
 
 
 Retarded Scammers (skids) <h3 align="center"> 
